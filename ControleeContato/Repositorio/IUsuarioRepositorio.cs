@@ -6,9 +6,9 @@ namespace ControleeContato.Repositorio
     {
         List<UsuarioModel> BuscarTodos();
 
-        UsuarioModel Adicionar(ContatoModel contato);
+        UsuarioModel Adicionar(UsuarioModel usuario);
 
-        UsuarioModel Atualizar(ContatoModel contato);
+        UsuarioModel Atualizar(UsuarioModel usuario);
 
         bool Apagar(int id);
     }
