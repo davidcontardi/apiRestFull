@@ -4,6 +4,8 @@ namespace ControleeContato.Repositorio
 {
     public interface IUsuarioRepositorio
     {
+        UsuarioModel ListarPorId(int id);
+
         List<UsuarioModel> BuscarTodos();
 
         UsuarioModel Adicionar(UsuarioModel usuario);
