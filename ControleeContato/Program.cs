@@ -6,7 +6,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddScoped<IUsuarioRepositorio, ContatoRepositorio>();
+builder.Services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
+builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
 
 var connstring = builder.Configuration.GetConnectionString("DataBase") ?? "";
 var serverversion = ServerVersion.AutoDetect(connstring);

@@ -3,7 +3,7 @@ using ControleeContato.Models;
 
 namespace ControleeContato.Repositorio
 {
-    public class ContatoRepositorio : IUsuarioRepositorio
+    public class ContatoRepositorio : IContatoRepositorio
     {
         private readonly BancoContext _context;
 

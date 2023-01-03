@@ -25,6 +25,7 @@ namespace ControleeContato.Repositorio
         public UsuarioModel Adicionar(UsuarioModel usuario)
         {
             // gravar no banco de dados
+            usuario.DataCadastro = DateTime.Now;
             _context.Usuarios.Add(usuario);
             _context.SaveChanges();
 
@@ -40,6 +41,7 @@ namespace ControleeContato.Repositorio
             usuarioDB.Nome            = usuario.Nome;
             usuarioDB.Email           = usuario.Email;
             usuarioDB.Login           = usuario.Login;
+            usuarioDB.Perfil          = usuario.Perfil;
             usuarioDB.DataAtualizacao = DateTime.Now;
 
             _context.Usuarios.Update(usuarioDB);
@@ -52,7 +54,7 @@ namespace ControleeContato.Repositorio
         {
             UsuarioModel usuarioDB = ListarPorId(id);
 
-            if (usuarioDB == null) throw new System.Exception("Houve um erro na deleção do contato!");
+            if (usuarioDB == null) throw new System.Exception("Houve um erro na deleção do usuário!");
 
             _context.Usuarios.Remove(usuarioDB);
             _context.SaveChanges();
