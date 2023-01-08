@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\ControleeContato\\ControleeContato\\ControleeContato.csproj": {}
+    "C:\\Users\\ctlk\\Documents\\CursoApiRest\\apiRestFull\\ControleeContato\\ControleeContato.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\ControleeContato\\ControleeContato\\ControleeContato.csproj": {
+    "C:\\Users\\ctlk\\Documents\\CursoApiRest\\apiRestFull\\ControleeContato\\ControleeContato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\ControleeContato\\ControleeContato\\ControleeContato.csproj",
+        "projectUniqueName": "C:\\Users\\ctlk\\Documents\\CursoApiRest\\apiRestFull\\ControleeContato\\ControleeContato.csproj",
         "projectName": "ControleeContato",
-        "projectPath": "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\ControleeContato\\ControleeContato\\ControleeContato.csproj",
-        "packagesPath": "C:\\Users\\David Contardi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\ControleeContato\\ControleeContato\\obj\\",
+        "projectPath": "C:\\Users\\ctlk\\Documents\\CursoApiRest\\apiRestFull\\ControleeContato\\ControleeContato.csproj",
+        "packagesPath": "C:\\Users\\ctlk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ctlk\\Documents\\CursoApiRest\\apiRestFull\\ControleeContato\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\David Contardi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ctlk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +45,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.7, )"
             },
@@ -55,7 +70,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -67,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
