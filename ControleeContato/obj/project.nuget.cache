@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "brpU24UrieU/shiz3+W8qDNoEQuqZbNEefw5Z8t22aVKfATpCrbiWspfBY/Tg3yx5W35S4h6dUPDzG8c6ZNGCw==",
+  "dgSpecHash": "HOH88Wf19FnEu9QTP7YsaVRb4Z137JzM9Zdz9ce6DEybfxsmF2gW/XIhEbaktrXWKotAv5CMbNVviw6eRNZqfw==",
   "success": true,
   "projectFilePath": "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\ControleeContato\\ControleeContato\\ControleeContato.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\David Contardi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\David Contardi\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
     "C:\\Users\\David Contardi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.7\\microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",
     "C:\\Users\\David Contardi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.7\\microsoft.entityframeworkcore.analyzers.6.0.7.nupkg.sha512",
+    "C:\\Users\\David Contardi\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.7\\microsoft.entityframeworkcore.design.6.0.7.nupkg.sha512",
     "C:\\Users\\David Contardi\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.7\\microsoft.entityframeworkcore.relational.6.0.7.nupkg.sha512",
+    "C:\\Users\\David Contardi\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.7\\microsoft.entityframeworkcore.tools.6.0.7.nupkg.sha512",
     "C:\\Users\\David Contardi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\David Contardi\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\David Contardi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

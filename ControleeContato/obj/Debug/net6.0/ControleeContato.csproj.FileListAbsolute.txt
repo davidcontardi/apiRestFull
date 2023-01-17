@@ -31,3 +31,43 @@ C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Con
 C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\ControleeContato\ControleeContato\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\ControleeContato\ControleeContato\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\ControleeContato\ControleeContato\obj\Debug\net6.0\ControleeContato.csproj.CopyComplete
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\appsettings.json
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\ControleeContato.staticwebassets.runtime.json
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\ControleeContato.exe
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\ControleeContato.deps.json
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\ControleeContato.runtimeconfig.json
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\ControleeContato.dll
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\ControleeContato.pdb
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.csproj.AssemblyReference.cache
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.AssemblyInfoInputs.cache
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.AssemblyInfo.cs
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.csproj.CoreCompileInputs.cache
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.RazorAssemblyInfo.cache
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.RazorAssemblyInfo.cs
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\staticwebassets\msbuild.ControleeContato.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\staticwebassets\msbuild.build.ControleeContato.props
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ControleeContato.props
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ControleeContato.props
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\scopedcss\bundle\ControleeContato.styles.css
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\scopedcss\projectbundle\ControleeContato.bundle.scp.css
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.csproj.CopyComplete
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.dll
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\refint\ControleeContato.dll
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.pdb
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.genruntimeconfig.cache
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\ref\ControleeContato.dll
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
