@@ -752,11 +752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\ControleeContato\\ControleeContato\\ControleeContato.csproj",
+      "projectUniqueName": "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\Controle de contato\\apiRestFull\\ControleeContato\\ControleeContato.csproj",
       "projectName": "ControleeContato",
-      "projectPath": "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\ControleeContato\\ControleeContato\\ControleeContato.csproj",
+      "projectPath": "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\Controle de contato\\apiRestFull\\ControleeContato\\ControleeContato.csproj",
       "packagesPath": "C:\\Users\\David Contardi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\ControleeContato\\ControleeContato\\obj\\",
+      "outputPath": "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\Controle de contato\\apiRestFull\\ControleeContato\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\David Contardi\\AppData\\Roaming\\NuGet\\NuGet.Config",

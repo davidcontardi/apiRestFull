@@ -25,6 +25,12 @@ namespace ControleeContato.Controllers
             return View();
         }
 
+        public IActionResult ApagarConfirmacao(int id)
+        {
+            UsuarioModel usuario = _usuarioRepositorio.ListarPorId(id);
+            return View(usuario);
+        }
+
         [HttpPost]
 
         public IActionResult Criar(UsuarioModel usuario)
