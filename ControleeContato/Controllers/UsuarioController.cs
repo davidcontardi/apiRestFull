@@ -33,7 +33,8 @@ namespace ControleeContato.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                    _usuarioRepositorio.Adicionar(usuario);
+                    usuario = _usuarioRepositorio.Adicionar(usuario);
+
                     TempData["MensagemSucesso"] = "Usuário cadastrado com sucesso";
                     return RedirectToAction("Index");
                 }
