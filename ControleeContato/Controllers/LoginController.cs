@@ -25,20 +25,24 @@ namespace ControleeContato.Controllers
             {
                 if (ModelState.IsValid)
                 {
+                    UsuarioModel usuario = _usuarioRepositorio.BuscarPorLogin(loginModel.Login);
 
-                    if (loginModel.Login == "adm" && loginModel.Senha == "123")
+                    if (usuario != null)
                     {
-                        return RedirectToAction("Index", "Home");
+                        if (usuario.SenhaValida(loginModel.Senha))
+                        {
+                            return RedirectToAction("Index", "Home");
+                        }
+                        TempData["MensagemErro"] = $"Senha do usuário é inválida, tente novamente.";
                     }
-
-                    TempData["MessagemErro"] = $"Usuário e/ou senha inválido(s). Por favor, tente novamente.";
+                    TempData["MensagemErro"] = $"Usuário e/ou senha inválido(s). Por favor, tente novamente.";
                 }
 
                 return View("Index");
             }
             catch (Exception erro)
             {
-                TempData["MessagemErro"] = $"Ops, não conseguimos realizar o seu login, tente novamente, detalhe erro: {erro.Message}";
+                TempData["MensagemErro"] = $"Ops, não conseguimos realizar o seu login, tente novamente, detalhe erro: {erro.Message}";
                 return RedirectToAction("Index");
             }
         }

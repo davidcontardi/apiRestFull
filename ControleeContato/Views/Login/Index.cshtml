@@ -4,11 +4,11 @@
     ViewData["Title"] = "Login";
 }
 
-@if (TempData["MessagemErro"] != null)
+@if (TempData["MensagemErro"] != null)
 {
     <div class="alert alert-danger" role="alert">
         <button type="button" class="btn btn-danger btn-sm close-alert" data-bs-dimiss="alert" arial-label="Close">X</button>
-        @TempData["MessagemErro"]
+        @TempData["MensagemErro"]
     </div>
 }
 

@@ -6,6 +6,8 @@ namespace ControleeContato.Repositorio
     {
         UsuarioModel ListarPorId(int id);
 
+        UsuarioModel BuscarPorLogin(string login);
+
         List<UsuarioModel> BuscarTodos();
 
         UsuarioModel Adicionar(UsuarioModel usuario);
