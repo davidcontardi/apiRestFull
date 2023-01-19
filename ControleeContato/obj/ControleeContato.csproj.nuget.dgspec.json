@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ctlk\\Documents\\CursoApiRest\\apiRestFull\\ControleeContato\\ControleeContato.csproj": {}
+    "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\Controle de contato\\apiRestFull\\ControleeContato\\ControleeContato.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ctlk\\Documents\\CursoApiRest\\apiRestFull\\ControleeContato\\ControleeContato.csproj": {
+    "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\Controle de contato\\apiRestFull\\ControleeContato\\ControleeContato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ctlk\\Documents\\CursoApiRest\\apiRestFull\\ControleeContato\\ControleeContato.csproj",
+        "projectUniqueName": "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\Controle de contato\\apiRestFull\\ControleeContato\\ControleeContato.csproj",
         "projectName": "ControleeContato",
-        "projectPath": "C:\\Users\\ctlk\\Documents\\CursoApiRest\\apiRestFull\\ControleeContato\\ControleeContato.csproj",
-        "packagesPath": "C:\\Users\\ctlk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ctlk\\Documents\\CursoApiRest\\apiRestFull\\ControleeContato\\obj\\",
+        "projectPath": "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\Controle de contato\\apiRestFull\\ControleeContato\\ControleeContato.csproj",
+        "packagesPath": "C:\\Users\\David Contardi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Contardi\\Documents\\ExerciciosDavid\\6. RESTful\\droperx\\service\\Controle de contato\\apiRestFull\\ControleeContato\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ctlk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\David Contardi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,8 +65,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -83,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

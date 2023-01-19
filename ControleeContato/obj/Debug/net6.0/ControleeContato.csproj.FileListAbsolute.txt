@@ -71,3 +71,40 @@ C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6
 C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\obj\Debug\net6.0\ref\ControleeContato.dll
 C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\Humanizer.dll
 C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\ControleeContato\ControleeContato\bin\Debug\net6.0\Humanizer.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\ControleeContato\ControleeContato\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\appsettings.json
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\ControleeContato.staticwebassets.runtime.json
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\ControleeContato.exe
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\ControleeContato.deps.json
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\ControleeContato.runtimeconfig.json
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\ControleeContato.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\ControleeContato.pdb
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\Humanizer.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.csproj.AssemblyReference.cache
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.AssemblyInfoInputs.cache
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.AssemblyInfo.cs
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.csproj.CoreCompileInputs.cache
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.RazorAssemblyInfo.cache
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.RazorAssemblyInfo.cs
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\scopedcss\bundle\ControleeContato.styles.css
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\scopedcss\projectbundle\ControleeContato.bundle.scp.css
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.csproj.CopyComplete
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\refint\ControleeContato.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.pdb
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.genruntimeconfig.cache
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ref\ControleeContato.dll
