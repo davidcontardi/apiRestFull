@@ -1,9 +1,12 @@
-﻿using ControleeContato.Models;
+﻿using ControleeContato.Filters;
+using ControleeContato.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
 namespace ControleeContato.Controllers
 {
+    [PaginaParaUsuarioLogado]
+
     public class HomeController : Controller
     {
         public IActionResult Index()

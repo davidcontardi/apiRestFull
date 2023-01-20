@@ -1,9 +1,12 @@
-﻿using ControleeContato.Models;
+﻿using ControleeContato.Filters;
+using ControleeContato.Models;
 using ControleeContato.Repositorio;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ControleeContato.Controllers
 {
+    [PaginaParaUsuarioLogado]
+
     public class ContatoController : Controller
     {
         private readonly IContatoRepositorio _contatoRepositorio;

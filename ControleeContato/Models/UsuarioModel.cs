@@ -1,4 +1,5 @@
 ﻿using ControleeContato.Enums;
+using ControleeContato.Helper;
 using System.ComponentModel.DataAnnotations;
 
 namespace ControleeContato.Models
@@ -34,7 +35,12 @@ namespace ControleeContato.Models
 
         public bool SenhaValida(string senha)
         {
-            return Senha == senha;
+            return Senha == senha.GerarHash();
+        }
+
+        public void SetSenhaHash()
+        {
+            Senha = Senha.GerarHash();
         }
     }
 }
