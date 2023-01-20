@@ -1,4 +1,5 @@
 using ControleeContato.Data;
+using ControleeContato.Helper;
 using ControleeContato.Repositorio;
 using Microsoft.EntityFrameworkCore;
 
@@ -6,8 +7,18 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
 builder.Services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
 builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
+builder.Services.AddScoped<ISessao, Sessao>();
+
+builder.Services.AddSession(o =>
+{
+    o.Cookie.HttpOnly    = true;
+    o.Cookie.IsEssential = true;
+});
 
 var connstring = builder.Configuration.GetConnectionString("DataBase") ?? "";
 var serverversion = ServerVersion.AutoDetect(connstring);
@@ -38,6 +49,8 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.UseSession();
 
 app.MapControllerRoute(
     name: "default",
