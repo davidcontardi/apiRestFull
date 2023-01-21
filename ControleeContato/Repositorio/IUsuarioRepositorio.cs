@@ -8,6 +8,8 @@ namespace ControleeContato.Repositorio
 
         UsuarioModel BuscarPorLogin(string login);
 
+        UsuarioModel BuscarPorEmailELogin(string email, string login);
+
         List<UsuarioModel> BuscarTodos();
 
         UsuarioModel Adicionar(UsuarioModel usuario);
