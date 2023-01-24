@@ -32,7 +32,7 @@ namespace ControleeContato.Helper
                 mail.IsBodyHtml = true;
                 mail.Priority = MailPriority.High;
 
-                using (SmtpClient smtp = new SmtpClient())
+                using (SmtpClient smtp = new SmtpClient(host, port))
                 {
 
                 }
