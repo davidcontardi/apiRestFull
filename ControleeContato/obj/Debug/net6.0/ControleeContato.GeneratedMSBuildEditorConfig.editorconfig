@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/David Contardi/Documents/ExerciciosDavid/6. RESTful/droperx/service/Controle de contato/apiRestFull/ControleeContato/Views/AlterarSenha/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx0ZXJhclNlbmhhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/David Contardi/Documents/ExerciciosDavid/6. RESTful/droperx/service/Controle de contato/apiRestFull/ControleeContato/Views/Contato/ApagarConfirmacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xBcGFnYXJDb25maXJtYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
