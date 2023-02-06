@@ -1,4 +1,5 @@
-﻿using System.Net.Mail;
+﻿using System.Net;
+using System.Net.Mail;
 
 namespace ControleeContato.Helper
 {
@@ -32,9 +33,13 @@ namespace ControleeContato.Helper
                 mail.IsBodyHtml = true;
                 mail.Priority = MailPriority.High;
 
-                using (SmtpClient smtp = new SmtpClient(host, port))
+                using (SmtpClient smtp = new SmtpClient(host, porta))
                 {
+                    smtp.Credentials = new NetworkCredential(username, senha);
+                    smtp.EnableSsl = true;
 
+                    smtp.Send(mail);
+                    return true;
                 }
             }
             catch (Exception ex)
