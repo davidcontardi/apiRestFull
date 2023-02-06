@@ -109,3 +109,4 @@ C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Con
 C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ControleeContato.genruntimeconfig.cache
 C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\obj\Debug\net6.0\ref\ControleeContato.dll
 C:\Users\ctlk\Documents\CursoApiRest\apiRestFull\ControleeContato\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\David Contardi\Documents\ExerciciosDavid\6. RESTful\droperx\service\Controle de contato\apiRestFull\ControleeContato\bin\Debug\net6.0\Newtonsoft.Json.dll
