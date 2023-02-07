@@ -10,7 +10,7 @@
 </div>
 
 <form asp-controller="Contato" asp-action="Criar" method="post">
-
+  @*<input type="hidden" asp-for="Id" />*@
   <div class="form-group">
     <label for="exampleInputEmail1">Nome</label>
     <input type="text" asp-for="Nome" class="form-control" placeholder="Digíte o nome do contato">
